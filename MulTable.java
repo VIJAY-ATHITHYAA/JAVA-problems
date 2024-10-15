@@ -1,8 +1,8 @@
 
 import java.util.Scanner;
 
-// Print the multiplication table of 5 using 
-// while loop and use a destructor to deallocate the memory.
+/* Print the multiplication table of 5 using 
+while loop and use a destructor to deallocate the memory.*/
 
 public class MulTable {
     int n,rang;
