@@ -9,7 +9,7 @@ public class SimpleCal {
     public SimpleCal(char opt,int op1,int op2) {
        this.opt = opt;
        this.op1 = op1;
-       this.op2 = 
+       this.op2 = op2;
     }
     void sum()
     {
